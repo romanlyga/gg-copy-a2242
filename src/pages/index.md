@@ -43,7 +43,7 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
-          ![](/images/Screenshot%202021-03-10%20at%2014.26.43.png)
+          ![](/images/Screenshot%202021-03-10%20at%2014.26.43.png)![](/images/1.gif)
 
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
