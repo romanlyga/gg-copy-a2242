@@ -43,10 +43,9 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
-          #
-          ![](/images/neat-apple.gif)![](/images/knowledgeable-lettuce.png)**Wi**th
-          Your Goal, you can create a dashboard with data about your activities
-          and track your progress.
+          ![](/images/neat-apple.gif)![](/images/knowledgeable-lettuce.png)![](</images/Screenshot
+          2021-03-10 at 14.23.27.png>)W**i**th Your Goal, you can create a
+          dashboard with data about your activities and track your progress.
         actions:
           - label: Learn More
             url: /thank-you
