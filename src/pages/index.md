@@ -42,7 +42,9 @@ sections:
     title: Why Choose YourGoal?
     features:
       - title: All the Activity Data You Need to Improve Yourself
-        content: >-
+        content: >
+          ![](/images/1.gif)
+
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
         actions:
