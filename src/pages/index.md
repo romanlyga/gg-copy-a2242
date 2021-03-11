@@ -132,10 +132,10 @@ sections:
         image_has_padding: true
       - title: Activity streak
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          ![](</images/Screenshot 2021-03-09 at 12.44.01.png>)Ac felis donec et
+          odio pellentesque. Sagittis vitae et leo duis ut diam quam nulla.
+          Ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
