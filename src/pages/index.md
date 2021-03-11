@@ -43,8 +43,9 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
-          ![](/images/thoughtful-goat.gif)W**i**th Your Goal, you can create a
-          dashboard with data about your activities and track your progress.
+          ![](/images/thoughtful-goat.gif)![](</images/Screenshot 2021-03-09 at
+          14.10.07.png>)W**i**th Your Goal, you can create a dashboard with data
+          about your activities and track your progress.
         actions:
           - label: Learn More
             url: /thank-you
