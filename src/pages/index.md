@@ -43,8 +43,8 @@ sections:
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
-          W**i**th Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+          ![](/images/rainy-oregano.gif)W**i**th Your Goal, you can create a
+          dashboard with data about your activities and track your progress.
         actions:
           - label: Learn More
             url: /thank-you
